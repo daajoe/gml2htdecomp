@@ -3,15 +3,15 @@
 # Copyright 2015
 # Johannes K. Fichte, Vienna University of Technology, Austria
 #
-# horn_backdoor.py is free software: you can redistribute it and/or
+# gml2htdecomp.py is free software: you can redistribute it and/or
 # modify it under the terms of the GNU General Public License as
 # published by the Free Software Foundation, either version 3 of the
-# License, or (at your option) any later version.  horn_backdoor.py is
+# License, or (at your option) any later version.  gml2htdecomp.py is
 # distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or
 # FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public
 # License for more details.  You should have received a copy of the
-# GNU General Public License along with horn_backdoor.py.  If not, see
+# GNU General Public License along with gml2htdecomp.py.  If not, see
 # <http://www.gnu.org/licenses/>.
 #
 from os import path as os_path
